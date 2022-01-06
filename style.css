@@ -1,0 +1,136 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+h1{
+    font-size: 55px;
+    font-weight: 500;
+    color: #333;
+}
+img{
+    max-width: 100%;
+}
+.custom-button{
+    background: #ff4747;
+    color: #fff;
+    padding: 10px 40px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.flexible{
+    display: flex;
+}
+.custom-color{
+    color: #083961d2;
+}
+/* Banner-section */
+.banner-area{
+    width: 40%;
+    margin: 0 5%;
+}
+.banner-area img{
+    max-width: 80%;
+}
+.banner-text{
+    margin-top: 100px;
+}
+.title-border h1 {
+    padding-left: 10px;
+    margin: 15px 0;
+}
+.title-border{
+    border-left: 5px solid tomato;
+}
+.banner-area p {
+    color: #555;
+    margin: 35px 0;
+}
+/* My-goal-section */
+.my-goal-title{
+    text-align: center;
+}
+.item-box{
+    width: 31%;
+    margin: 0 2%;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px rgba(128, 128, 128, 0.6);
+}
+.item-box img{
+    width: 50%;
+}
+.item-box h3{
+    font-size: 30px;
+}
+.item-box p {
+    color: #555;
+}
+#item-bg1{
+    background: rgba(255, 166, 0, 0.144);
+}
+#item-bg2{
+    background: rgba(0, 17, 255, 0.1);
+}
+#item-bg3{
+    background: rgba(9, 255, 0, 0.1);
+}
+/* learn-develop-area */
+.learn-develop-area{
+    padding: 80px 0;
+}
+.develop-img{
+    width: 40%;
+    margin: 0 20px;
+    padding: 30px;
+}
+.develop-text{
+    width: 60%;
+    margin: 0 20px;
+    padding: 30px;
+}
+.develop-text h1{
+    font-size: 50px;
+}
+.develop-text p{
+    color: #555;
+}
+.learn-develop-area1{
+    background-image: url(./images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 15%;
+}
+.learn-develop-area2{
+    background-image: url(./images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 15%;
+}
+.corona-title{
+    text-align: center;
+}
+.corona-content{
+    margin: 0 10%;
+}
+.corona-img{
+    width: 45%;
+    margin: 0 5%;
+}
+.corona-text{
+    width: 45%;
+    margin: 0 5%;
+    margin-top: 100px;
+}
+.corona-text h2{
+    font-size: 40px;
+}
+.footer-area{
+    text-align: center;
+    background: #111;
+    color: #ddd;
+    padding: 20px 0;
+}
+.footer-area h1{
+    font-size: 40px;
+    color: #ddd;
+    margin: 0;
+}
